@@ -8,8 +8,9 @@ The analysis is for a period of 86 months in total
 The net profit/losses over this period of time
 The average change in profit/losses
 The greatest increase and decrease in profits during this period
-2- Couting votes The following information is generated from the votes casted in a small rural town:
 
+
+2- Couting votes The following information is generated from the votes casted in a small rural town:
 Total number of votes
 List of candidates who received votes
 Percentage of votes each candidate won
